@@ -1,7 +1,7 @@
 # Minimal React App
 
 ## Requirements
-- [Node.js](nodejs.org) version 18 or later
+- [Node.js](nodejs.org) 16.8 or later.
 
 ## Getting Started
 1. `npm i`
